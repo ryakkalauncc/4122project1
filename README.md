@@ -6,10 +6,29 @@ My guiding question is How has the average win rate changed over the decades? A 
 </b>
 <b>.</b>
 <h2>Data Understanding/Visualization</h2>
-<b>.</b>
+<b>A polished, audience-facing story published on your portfolio site. This should focus on clarity, visuals, and insights rather than technical details.
+Your post should include:
+Defines the problem or question you are addressing
+Presents multiple coded visualizations that walk the audience through a clear story
+Highlights key insights and why they matter (impact/implications)
+Written for an audience — no code snippets or step-by-step cleaning (those go in the technical report)
+</b>
 <img />
 <h2>Findings/Analysis</h2>
-<b>storytelling information here</b>
+<b>Think of this like a blog post, a news article with charts, or a case study for a professional portfolio. The audience is non-technical: classmates, employers, or a curious reader who wants to know what the data reveals.
+Goal: Tell a story, highlight insights, and communicate “why it matters.”
+Style: Clear, engaging narrative with visuals woven into the story.
+What to include:
+Problem / guiding question(s) (framed simply)
+Visualizations that lead the reader through the story
+Insights and implications (what should we learn? why does it matter?)
+➡️ Portfolio Post Example (fictional snippet):
+“When we look at Delhi’s air quality over the past decade, the trend is clear: PM2.5 levels spike sharply during winter months. The visualization below shows how those peaks align with the festival season. This raises important questions about public health during those months, and whether interventions could reduce exposure…”
+(Notice: storytelling tone, a chart theoretically included inline, no code or step-by-step data cleaning.)
+It tells a story or argues a point in plain language.
+It walks the audience through visuals that support the narrative.
+It highlights why the data matters.
+</b>
 <h2>Impact Section</h2>
 <b>add information about Impact here</b>
 <h2>References</h2>
