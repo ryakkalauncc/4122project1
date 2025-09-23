@@ -13,6 +13,15 @@ Presents multiple coded visualizations that walk the audience through a clear st
 Highlights key insights and why they matter (impact/implications)
 Written for an audience — no code snippets or step-by-step cleaning (those go in the technical report)
 </b>
+<b>I started with calculating the mean win rate for each country and further transitioning that into my first visual which is the distribution of win rates by country. This boxplot shows clear outliers with the highest win rates in the top 25 countries producing f1 drivers over the years. This focus on the spread of driver data especially helps highlight outliers in racing and which countries are consistent in their rates.
+  <img width="1164" height="800" alt="download" src="https://github.com/user-attachments/assets/def9cd3f-d6fa-4b1f-ba46-df3951c3d306" />
+I then transitioned to my next question, how have win rates changed over time, including major winning countries and decade win rate averages. 
+  <img width="1382" height="707" alt="download" src="https://github.com/user-attachments/assets/53c327f6-1c59-428b-976c-19331d1c2b38" />
+  </b>
+<b>Next, I compared the data to see if pole positions had an effect on driver race wins. I used regression line to test if there was a positive correlation,</b>
+  <img width="695" height="547" alt="download" src="https://github.com/user-attachments/assets/ab4feeda-31c9-4af6-a252-24d7dd53cbc3" />
+
+
 <h2>Findings/Analysis</h2>
 <b>Think of this like a blog post, a news article with charts, or a case study for a professional portfolio. The audience is non-technical: classmates, employers, or a curious reader who wants to know what the data reveals.
 Goal: Tell a story, highlight insights, and communicate “why it matters.”
