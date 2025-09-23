@@ -1,4 +1,4 @@
-# F1 Driver Performance Over Time :checkered_flag: (ITCS 4122 Project 1)
+# F1 Driver Performance Over Time :checkered_flag:
 <b></b>
 <H2>Introduction to the Problem</H2>
 <b>I chose this data set because I have recently become interested in F1 racing and I loved reading about more drivers and their stats through this dataset. It gave me a natural guiding question to ask that I am genuinely interested in finding the answer to.
