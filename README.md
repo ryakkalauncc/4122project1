@@ -32,7 +32,6 @@ It highlights why the data matters.
 <h2>Impact Section</h2>
 <b>add information about Impact here</b>
 <h2>References</h2>
-<b>add references here</b>
 <ul>1. https://www.kaggle.com/datasets/petalme/f1-drivers-dataset</ul>
 <ul>2. </ul>
 <ul>3. </ul>
