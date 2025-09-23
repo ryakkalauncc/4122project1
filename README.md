@@ -13,7 +13,6 @@ Presents multiple coded visualizations that walk the audience through a clear st
 Highlights key insights and why they matter (impact/implications)
 Written for an audience — no code snippets or step-by-step cleaning (those go in the technical report)
 </b>
-<img />
 <h2>Findings/Analysis</h2>
 <b>Think of this like a blog post, a news article with charts, or a case study for a professional portfolio. The audience is non-technical: classmates, employers, or a curious reader who wants to know what the data reveals.
 Goal: Tell a story, highlight insights, and communicate “why it matters.”
@@ -29,10 +28,6 @@ It tells a story or argues a point in plain language.
 It walks the audience through visuals that support the narrative.
 It highlights why the data matters.
 </b>
-<h2>Impact Section</h2>
-<b>add information about Impact here</b>
 <h2>References</h2>
 <ul>1. https://www.kaggle.com/datasets/petalme/f1-drivers-dataset</ul>
-<ul>2. </ul>
-<ul>3. </ul>
-<ul>4. </ul>
+
