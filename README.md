@@ -18,7 +18,7 @@ Written for an audience — no code snippets or step-by-step cleaning (those go 
 I then transitioned to my next question, how have win rates changed over time, including major winning countries and decade win rate averages. 
   <img width="1382" height="707" alt="download" src="https://github.com/user-attachments/assets/53c327f6-1c59-428b-976c-19331d1c2b38" />
   </b>
-<b>Next, I compared the data to see if pole positions had an effect on driver race wins. I used regression line to test if there was a positive correlation,</b>
+<b>Next, I compared the data to see if pole positions had an effect on driver race wins. I used regression line to test if there was a positive correlation, where we see a clear positive regression with higher pole positions leading to higher win rates overall</b>
   <img width="695" height="547" alt="download" src="https://github.com/user-attachments/assets/ab4feeda-31c9-4af6-a252-24d7dd53cbc3" />
 
 
