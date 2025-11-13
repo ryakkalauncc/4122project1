@@ -9,12 +9,11 @@ My guiding question is “how has the average win rate changed over the decades?
 <b>I started by calculating the mean win rate for each country and further transitioning that into my first visual, which is the distribution of win rates by country. This boxplot defines clear outliers with the highest win rates in the top 25 countries that produced F1 drivers over the years. This focus on the spread of driver data especially helps highlight outliers in racing and which countries are consistent in their rates.
   <img width="1164" height="800" alt="download" src="https://github.com/user-attachments/assets/def9cd3f-d6fa-4b1f-ba46-df3951c3d306" />
 <b></b>To explore how win rates have changed over time, I created a chart that compares individual drivers by decade, highlighting major winning countries and overlaying decade win rate averages. This makes it easy to see which nations provided dominant drivers during certain eras, but also how the sport has evolved over time. 
-  <img width="1382" height="707" alt="download" src="https://github.com/user-attachments/assets/53c327f6-1c59-428b-976c-19331d1c2b38" />
-  </b>
+<img width="695" height="547" alt="download" src="https://github.com/user-attachments/assets/37825a6c-fcbe-4c38-9629-513527eaf462" />
 <b> Next, I compared the data to see if pole positions had an effect on driver race wins. I used a regression line to test if a positive correlation occurs. We observe a clear positive regression, with higher pole positions leading to higher win rates overall.</b>
-  <img width="695" height="547" alt="download" src="https://github.com/user-attachments/assets/ab4feeda-31c9-4af6-a252-24d7dd53cbc3" />
+ <img width="1187" height="746" alt="download" src="https://github.com/user-attachments/assets/3ea479a9-c02f-4f37-9f47-a295692947ed" />
+
   <b> My final visualization was a test to find out if career length had a correlation with the win rates of the majority of drivers. I also highlighted top performers in F1 and saw what their career length was compared to their win rates. I ensured that the top performers were clearly marked, and we see different career lengths for each of these performers. However, we do see an overall positive correlation, indicating that the longer a driver's racing career, the more wins they accumulate. </b>
-  <img width="1187" height="746" alt="download" src="https://github.com/user-attachments/assets/3ea479a9-c02f-4f37-9f47-a295692947ed" />
 
 <h2>Findings/Analysis</h2>
 <b>
